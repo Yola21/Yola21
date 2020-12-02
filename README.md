@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui&logoColor=blue)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
@@ -44,6 +44,6 @@
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/yash-khorja"><img src="https://img.shields.io/badge/-Yash%20Khorja-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yashkhorja4@gmail.com"><img src="https://img.shields.io/badge/-yashkhorja4@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/yola_yash"><img src="https://img.shields.io/badge/-@yola_yash__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/yola_yash"><img src="https://img.shields.io/badge/-@yola_yash-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/YolaYash08"><img src="https://img.shields.io/badge/-@YolaYash08-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
