@@ -29,12 +29,14 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)&nbsp;
 
 
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Yola21">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yola21&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yola21&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
