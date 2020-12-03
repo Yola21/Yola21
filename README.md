@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Information Technology Engineering at G H Patel College of Engineering and Technology.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
-✍️ &nbsp;In my free time, I pursue Poem Writing as a habit.\
+✍️ &nbsp;In my free time, I pursue Poem Writing as a hobby.\
 ✉️ &nbsp;You can shoot me an email at yashkhorja4@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://bit.ly/3fH0Huy) for more details about me. I'm open to feedback and suggestions!
 
