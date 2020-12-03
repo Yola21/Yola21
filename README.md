@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Yash Khorja aka[Yola Yash]
+## 👋 &nbsp;Hey there! I'm Yash Khorja😄
 
 ### 👨🏻‍💻 &nbsp;About Me
 
