@@ -13,21 +13,22 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)\
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui&logoColor=blue)\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)&nbsp;
-
+![C](https://img.shields.io/badge/-C-3f37c9?style=flat&logo=C&logoColor=ffffff)&nbsp;
+![C++](https://img.shields.io/badge/-C++-a2d2ff?style=flat&logo=C%2B%2B&logoColor=ffffff)&nbsp;
+![Python](https://img.shields.io/badge/-Python-1d3557?style=flat&logo=python&logoColor=ffffff)&nbsp;
+![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=Java&logoColor=ffffff)\
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)\
+![React](https://img.shields.io/badge/-React-0496ff?style=flat&logo=react&logoColor=ffffff)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-9b76d8?style=flat&logo=redux&logoColor=ffffff)&nbsp;
+![MobX](https://img.shields.io/badge/-MobX-f27f34?style=flat&logo=mobx&logoColor=ffffff)&nbsp;
+![Material UI](https://img.shields.io/badge/-Material%20UI-0496ff?style=flat&logo=material-ui&logoColor=ffffff)\
+![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=ffffff)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-ffa611?style=flat&logo=firebase&logoColor=ffffff)&nbsp;
 
 
 
