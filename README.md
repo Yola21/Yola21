@@ -3,11 +3,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am FrontEnd Development enthusiast and like to explore Frontend technologies and develop amazing projects and quick hacks.\
-🎓 &nbsp;I'm currently studying Information Technology Engineering at G H Patel College of Engineering and Technology.\
+🎓 &nbsp;I'm currently persuing Masters in Applied Computer Science at Dalhousie University.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
 ✍️ &nbsp;In my free time, I pursue Poem Writing as a hobby.\
-✉️ &nbsp;You can shoot me an email at yashkhorja4@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1qDGWZfbvt8fXWXZxv8YWplE7_Qye_11k/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at yash.h.khorja@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/drive/u/0/folders/1h9sCc56P9aI_FGEnmfUEQP0HUI2hJ3yP) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -47,7 +47,7 @@
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/yash-khorja"><img src="https://img.shields.io/badge/-Yash%20Khorja-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yashkhorja4@gmail.com"><img src="https://img.shields.io/badge/-yashkhorja4@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:yashkhorja4@gmail.com"><img src="https://img.shields.io/badge/-yash.h.khorja@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/yola_yash"><img src="https://img.shields.io/badge/-@yola_yash-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/YolaYash08"><img src="https://img.shields.io/badge/-@YolaYash08-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
