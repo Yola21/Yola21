@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
 ✍️ &nbsp;In my free time, I pursue Poem Writing as a hobby.\
 ✉️ &nbsp;You can shoot me an email at yash.h.khorja@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/drive/u/0/folders/1h9sCc56P9aI_FGEnmfUEQP0HUI2hJ3yP) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1qDGWZfbvt8fXWXZxv8YWplE7_Qye_11k/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
