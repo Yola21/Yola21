@@ -1,6 +1,9 @@
-<h1> Hello, I'm Yashkumar Khorja, great to see you here!
- <img src="https://github.com/Yola21/yola21/blob/master/memoji.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<div>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=635&lines=Hey..+I'm+Yashkumar+Khorja;This+is..;..my+Github..;" alt="Typing SVG"/>
+	
+</div>
 
+## About Me
 * 📖 Pursuing my Master of Applied Computer Science from [Dalhousie University](https://www.dal.ca/academics/programs/graduate/applied-computer-science.html). 
 
 * 🧑🏻‍💻 Software Engineer with 2 years of experience. 
@@ -105,3 +108,7 @@ Find out more about me & feel free to connect with me here:
 <!--   <img src="https://raw.githubusercontent.com/yola21/yola21/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/> -->
   <img src="https://raw.githubusercontent.com/yola21/yola21/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
+
+## ␆ Acknowledgement
+[Zane Pearton](https://github.com/ZanePearton/ZanePearton)
+[Asmit Malakannawar](https://github.com/asmitbm/asmitbm)
