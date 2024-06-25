@@ -1,53 +1,103 @@
-## 👋 &nbsp;Hey there! I'm Yash Khorja😄
+<h1> Hello, I'm Yashkumar Khorja, great to see you here!
+ <img src="https://github.com/Yola21/yola21/blob/master/memoji.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+* 📖 Pursuing my Master of Applied Computer Science from [Dalhousie University](https://www.dal.ca/academics/programs/graduate/applied-computer-science.html). 
 
-💡 &nbsp;I am FrontEnd Development enthusiast and like to explore Frontend technologies and develop amazing projects and quick hacks.\
-🎓 &nbsp;I'm currently persuing Masters in Applied Computer Science at Dalhousie University.\
-🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
-✍️ &nbsp;In my free time, I pursue Poem Writing as a hobby.\
-✉️ &nbsp;You can shoot me an email at yash.h.khorja@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1qDGWZfbvt8fXWXZxv8YWplE7_Qye_11k/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+* 🧑🏻‍💻 Software Engineer with 2 years of experience. 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+* 💡 Always open to collaborating on projects and innovative ideas. 
 
-### 🛠 &nbsp;Tech Stack
+* 💻 Seeking Fall 2024 internships and/or Full time opportunities starting August 15th 2024.
 
-![C](https://img.shields.io/badge/-C-3f37c9?style=flat&logo=C&logoColor=ffffff)&nbsp;
-![C++](https://img.shields.io/badge/-C++-a2d2ff?style=flat&logo=C%2B%2B&logoColor=ffffff)&nbsp;
-![Python](https://img.shields.io/badge/-Python-1d3557?style=flat&logo=python&logoColor=ffffff)&nbsp;
-![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=Java&logoColor=ffffff)\
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)\
-![React](https://img.shields.io/badge/-React-0496ff?style=flat&logo=react&logoColor=ffffff)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-9b76d8?style=flat&logo=redux&logoColor=ffffff)&nbsp;
-![MobX](https://img.shields.io/badge/-MobX-f27f34?style=flat&logo=mobx&logoColor=ffffff)&nbsp;
-![Material UI](https://img.shields.io/badge/-Material%20UI-0496ff?style=flat&logo=material-ui&logoColor=ffffff)\
-![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=ffffff)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-ffa611?style=flat&logo=firebase&logoColor=ffffff)&nbsp;
+Find out more about me & feel free to connect with me here:
 
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Yola21">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yola21&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yola21&layout=compact&langs_count=8&theme=react"/>
-</a>
+<p align="left">
+	<a href="https://www.linkedin.com/in/yash-khorja">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+    <a href="mailto:ys944579@dal.ca">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
+
+## ⚡ Tech Stack
+
+### 🚀 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🧩 Frameworks
+
+![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗃️ Database Systems & Management
+
+![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firestore](https://img.shields.io/badge/firestore-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+### ☁ Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### ⚙️ Other
+
+![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-%46E3B7.svg?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-2B579A?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-000000?style=for-the-badge&logo=code&logoColor=white)
+![Data Structures and Algorithms](https://img.shields.io/badge/Data_Structures_and_Algorithms-FF9900?style=for-the-badge)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+
+## 📈 Stats
 
 <p align="center">
-<!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/yash-khorja"><img src="https://img.shields.io/badge/-Yash%20Khorja-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yashkhorja4@gmail.com"><img src="https://img.shields.io/badge/-yash.h.khorja@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/yola_yash"><img src="https://img.shields.io/badge/-@yola_yash-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/YolaYash08"><img src="https://img.shields.io/badge/-@YolaYash08-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yola21&show_icons=true&hide_border=true\&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yola21&hide_border=true" />
 </p>
+
+
+## 🔝 Most used languages
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yola21&layout=compact&hide_border=true" />
+</p>
+
+
+ <div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+<!--   <img src="https://raw.githubusercontent.com/yola21/yola21/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/> -->
+  <img src="https://raw.githubusercontent.com/yola21/yola21/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
