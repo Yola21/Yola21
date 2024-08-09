@@ -4,7 +4,7 @@
 </div>
 
 ## About Me
-* 📖 Pursuing my Master of Applied Computer Science from [Dalhousie University](https://www.dal.ca/academics/programs/graduate/applied-computer-science.html). 
+* 📖 Master of Applied Computer Science from [Dalhousie University](https://www.dal.ca/academics/programs/graduate/applied-computer-science.html). 
 
 * 🧑🏻‍💻 Software Engineer with 2 years of experience. 
 
