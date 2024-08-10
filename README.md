@@ -10,7 +10,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Seeking Fall 2024 internships and/or Full time opportunities starting August 15th 2024.
+* 💻 Seeking Full time opportunities starting August 15th 2024.
 
 Find out more about me & feel free to connect with me here:
 
