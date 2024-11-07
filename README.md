@@ -6,11 +6,9 @@
 ## About Me
 * 📖 Master of Applied Computer Science from [Dalhousie University](https://www.dal.ca/academics/programs/graduate/applied-computer-science.html). 
 
-* 🧑🏻‍💻 Software Engineer with 2 years of experience. 
+* 🧑🏻‍💻 Software Engineer with 2+ years of experience. 
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
-
-* 💻 Seeking Full time opportunities starting August 15th 2024.
 
 Find out more about me & feel free to connect with me here:
 
